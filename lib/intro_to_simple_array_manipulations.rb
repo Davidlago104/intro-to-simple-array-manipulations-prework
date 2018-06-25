@@ -23,7 +23,5 @@ def shift_with_args(array)
 end 
 
 def using_concat(array, secondarray)
-  array = [1, 2]
-  secondarray = [3, 4]
-  array.concat.secarray
+  secondarray.concat.array
 end
